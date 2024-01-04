@@ -4,6 +4,8 @@
 ## Connect with Me
 📫 Email mailto:woroodassi@gmail.com <br>
 💼 LinkedIn https://www.linkedin.com/in/worood-fathi-assi/
+<br><br>
+Thank you for visiting! 😊
 <!--
 **woroodfathiassi/woroodfathiassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
