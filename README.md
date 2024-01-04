@@ -1,5 +1,9 @@
 # Hello 👋,I'm Worood Assi
+### Welcome to my GitHub profile!
 
+## Connect with Me
+📫 Email mailto:woroodassi@gmail.com
+💼 LinkedIn https://www.linkedin.com/in/worood-fathi-assi/
 <!--
 **woroodfathiassi/woroodfathiassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
