@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile!
 
 ## Connect with Me
-📫 Email mailto:woroodassi@gmail.com <br>
+📫 Email mailto:woroodassi345@gmail.com <br>
 💼 LinkedIn https://www.linkedin.com/in/worood-fathi-assi/
 <br><br>
 Thank you for visiting! 😊
